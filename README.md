@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 this is Wdji3n2
+
+- 🌱 I’m currently learning python and R.
+
+
+
 
 <!--
 **Wdji3n2/Wdji3n2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
